@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VkPhotoManager</string>
+    <string name="internet_not_available_text">Internet in not available</string>
+    <string name="try_again_text">Try again</string>
+    <string name="cd_detail_photo">image</string>
+    <string name="show_in_map_text">show in map</string>
+    <string name="logout">logout</string>
+    <integer name="com_vk_sdk_AppId">5353705</integer>
+
+</resources>
